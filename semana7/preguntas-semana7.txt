@@ -1,0 +1,15 @@
+Pregunta 1: ¿Qué es un array en programación?
+Respuesta: B. Una estructura que permite almacenar varios datos en una lista.
+Justificación: Un array es una estructura de datos que permite almacenar múltiples valores en una lista ordenada, facilitando el manejo de colecciones de información.
+
+Pregunta 2: ¿Qué método HTTP se utiliza normalmente para consultar datos existentes?
+Respuesta: B. GET.
+Justificación: El método GET se utiliza para solicitar y consultar datos existentes en un servidor sin modificar su estado.
+
+Pregunta 3: ¿Qué método HTTP se usa normalmente para agregar información nueva?
+Respuesta: B. POST.
+Justificación: El método POST se utiliza para enviar datos al servidor y crear nuevos recursos, como agregar un reporte o incidencia.
+
+Pregunta 4: ¿Cuál es el propósito de una API en una aplicación?
+Respuesta: B. Permitir que diferentes sistemas o aplicaciones intercambien información.
+Justificación: Una API (Interfaz de Programación de Aplicaciones) permite que diferentes sistemas o aplicaciones se comuniquen e intercambien información de forma estandarizada y segura.

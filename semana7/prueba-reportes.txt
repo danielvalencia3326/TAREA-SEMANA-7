@@ -1,0 +1,5 @@
+Se envió una petición POST a /reportes con el JSON {"tipo":"Infraestructura","descripcion":"Daño en alumbrado público"}. El servidor guardó el reporte en el array "reportes" y respondió con el objeto creado.
+
+Luego se consultó GET a /reportes y el servidor devolvió un array con todos los reportes guardados hasta el momento. En este caso, devolvió el reporte que acabábamos de registrar.
+
+Esto demuestra que el servidor almacena los reportes en memoria (array) y que la ruta GET permite consultar la lista completa.
